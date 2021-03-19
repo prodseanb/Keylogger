@@ -1,5 +1,5 @@
 # Keylogger
-Tracks user key presses and get contents of the clipboard
+Tracks user key presses and gets contents of the clipboard
 
 
 
