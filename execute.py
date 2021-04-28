@@ -1,4 +1,4 @@
-# https://www.youtube.com/watch?v=OMEmtSAgReM
+
 from pynput.keyboard import Listener # allows us to listen for keyboard events
 from datetime import datetime
 import pyperclip
