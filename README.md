@@ -5,12 +5,9 @@ Tracks user key presses and gets contents of the clipboard.
 ```bash
 git clone https://github.com/prodseanb/Keylogger.git
 ```
-#### Install packages
+#### Install packages and execute
 ```bash
 pip3 install -r requirements.txt
-```
-#### Execute
-```bash
 python3 execute.py
 ```
 #### Logs
