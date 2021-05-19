@@ -1,7 +1,7 @@
 # Keylogger for Windows
 Tracks user key presses and gets contents of the clipboard.
 ## Setup
-#### Clone repository
+#### Clone repo
 ```bash
 git clone https://github.com/prodseanb/Keylogger.git
 ```
